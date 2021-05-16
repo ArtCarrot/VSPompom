@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mackiebob.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mackie0000" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0001" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0002" x="274" y="0" width="274" height="218" frameX="0" frameY="-14" frameWidth="274" frameHeight="232"/>
+	<SubTexture name="mackie0003" x="548" y="0" width="274" height="228" frameX="0" frameY="-4" frameWidth="274" frameHeight="232"/>
+	<SubTexture name="mackie0004" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0005" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0006" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0007" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0008" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0009" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0010" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0011" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0012" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0013" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0014" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0015" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0016" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0017" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0018" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0019" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0020" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0021" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0022" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0023" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0024" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0025" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0026" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0027" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0028" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0029" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0030" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0031" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0032" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0033" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0034" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0035" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0036" x="0" y="0" width="274" height="232"/>
+	<SubTexture name="mackie0037" x="0" y="0" width="274" height="232"/>
+</TextureAtlas>

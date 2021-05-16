@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pompomPortraitCross.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pompomCross0000" x="0" y="0" width="783" height="297" frameX="0" frameY="0" frameWidth="823" frameHeight="297"/>
+	<SubTexture name="pompomCross0001" x="0" y="297" width="783" height="297" frameX="-14" frameY="0" frameWidth="823" frameHeight="297"/>
+	<SubTexture name="pompomCross0002" x="0" y="297" width="783" height="297" frameX="-27" frameY="0" frameWidth="823" frameHeight="297"/>
+	<SubTexture name="pompomCross0003" x="0" y="594" width="783" height="297" frameX="-40" frameY="0" frameWidth="823" frameHeight="297"/>
+</TextureAtlas>

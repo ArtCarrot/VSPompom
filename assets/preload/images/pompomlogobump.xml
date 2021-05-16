@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pompomlogobump.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pompommackielogo0000" x="0" y="0" width="435" height="291" frameX="-15" frameY="-10" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0001" x="435" y="0" width="466" height="312"/>
+	<SubTexture name="pompommackielogo0002" x="435" y="0" width="466" height="312"/>
+	<SubTexture name="pompommackielogo0003" x="0" y="312" width="448" height="300" frameX="-9" frameY="-6" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0004" x="0" y="312" width="448" height="300" frameX="-9" frameY="-6" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0005" x="0" y="0" width="435" height="291" frameX="-15" frameY="-10" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0006" x="0" y="0" width="435" height="291" frameX="-15" frameY="-10" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0007" x="0" y="0" width="435" height="291" frameX="-15" frameY="-10" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0008" x="0" y="0" width="435" height="291" frameX="-15" frameY="-10" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0009" x="0" y="0" width="435" height="291" frameX="-15" frameY="-10" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0010" x="0" y="0" width="435" height="291" frameX="-15" frameY="-10" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0011" x="0" y="0" width="435" height="291" frameX="-15" frameY="-10" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0012" x="0" y="0" width="435" height="291" frameX="-15" frameY="-10" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0013" x="0" y="0" width="435" height="291" frameX="-15" frameY="-10" frameWidth="466" frameHeight="312"/>
+	<SubTexture name="pompommackielogo0014" x="0" y="0" width="435" height="291" frameX="-15" frameY="-10" frameWidth="466" frameHeight="312"/>
+</TextureAtlas>
